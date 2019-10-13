@@ -1,0 +1,8 @@
+d = { 'Adam': 95, 'Lisa': 85, 'Bart': 59 }
+print d.values()
+# [85, 95, 59]
+for v in d.values():
+    print v
+# 85
+# 95
+# 59
