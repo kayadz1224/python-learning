@@ -1,0 +1,2 @@
+L = ['Adam', 'Lisa', 'Bart', 'Paul']
+print(L[2:])
